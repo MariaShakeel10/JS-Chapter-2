@@ -13,6 +13,9 @@ alert(userName);
 alert(age);
 alert(course);
 
+var pizza ="PIZZA \nPIZZ \nPIZ \nPI \nP";
+alert(pizza);
+
 var email = "mariashakeel10a@gmail.com";
 alert("My email address is " + email);
 
